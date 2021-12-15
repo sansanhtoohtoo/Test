@@ -18,13 +18,13 @@ Polls is a simple API allowing consumers to view polls and vote in them.
                 "published_at": "2015-08-05T08:40:51.620Z",
                 "choices": [
                     {
-                        "choice": "Swift",
+                        "choice": "SwiftSwift",
                         "votes": 2048
                     }, {
-                        "choice": "Python",
+                        "choice": "PythonPython",
                         "votes": 1024
                     }, {
-                        "choice": "Objective-C",
+                        "choice": "Objective-CObjective-C",
                         "votes": 512
                     }, {
                         "choice": "Ruby",
